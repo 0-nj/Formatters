@@ -34,7 +34,7 @@ URL: [https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Arabic-E
 [File: Tamtaro.json](Tamtaro.json)  
 URL: [https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Tamtaro.json](https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Tamtaro.json)
 
-![Tamtaro formatter preview](Tamtaro.png)
+![Tamtaro formatter preview](Tamtaro.jpg)
 
 ## 5. Jellyfin
 
