@@ -1,11 +1,12 @@
 # Formatters
 
-A collection of four AIOStreams formatters with JSON files and preview images.
+A collection of five AIOStreams formatters with JSON files and preview images.
 
 1. [English](English.json)
 2. [Arabic](Arabic.json)
-3. [Jellyfin](Jellyfin.json)
+3. [Arabic & English](Arabic-English.json)
 4. [Tamtaro](Tamtaro.json)
+5. [Jellyfin](Jellyfin.json)
 
 ## 1. English
 
@@ -21,12 +22,12 @@ URL: [https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Arabic.j
 
 ![Arabic formatter preview](Arabic.png)
 
-## 3. Jellyfin
+## 3. Arabic & English
 
-[File: Jellyfin.json](Jellyfin.json)  
-URL: [https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Jellyfin.json](https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Jellyfin.json)
+[File: Arabic-English.json](Arabic-English.json)  
+URL: [https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Arabic-English.json](https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Arabic-English.json)
 
-![Jellyfin formatter preview](Jellyfin.jpg)
+![Arabic & English formatter preview](Arabic-English.jpg)
 
 ## 4. Tamtaro
 
@@ -34,4 +35,11 @@ URL: [https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Jellyfin
 URL: [https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Tamtaro.json](https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Tamtaro.json)
 
 ![Tamtaro formatter preview](Tamtaro.png)
+
+## 5. Jellyfin
+
+[File: Jellyfin.json](Jellyfin.json)  
+URL: [https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Jellyfin.json](https://raw.githubusercontent.com/0-nj/Formatters/refs/heads/main/Jellyfin.json)
+
+![Jellyfin formatter preview](Jellyfin.jpg)
 
